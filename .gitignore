@@ -5,7 +5,6 @@ dashboard/config.js
 node_modules/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -17,3 +16,4 @@ Thumbs.db
 # Logs
 *.log
 logs/
+config.bat
